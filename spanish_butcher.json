@@ -1,0 +1,119 @@
+{
+  "title": "Iberica de Bellota with Manchego Truffle Fries and Mojo Verde Sauce",
+  "source": "The Spanish Butcher",
+  "book": "The Glasgow and West Coast Cook Book",
+  "description": "Iberica de bellota is the best pork in the world due to the pigs' unique acorn diet. This dish is inspired by travels in Spain and is full of rich Mediterranean flavors. It has found itself a cult following in Glasgow, best cooked pink.",
+  "prep_time": "20 minutes",
+  "cook_time": "40 minutes",
+  "serves": 4,
+  "ingredients": {
+    "presa_iberica_de_bellota": [
+      {
+        "ingredient": "Presa Iberica de bellota",
+        "quantity": 700,
+        "unit": "g",
+        "description": "seam-boned shoulder cut of acorn-fed black-hooved Iberian pigs"
+      },
+      {
+        "ingredient": "Maldon salt",
+        "quantity": 15,
+        "unit": "g"
+      },
+      {
+        "ingredient": "vegetable oil",
+        "quantity": 5,
+        "unit": "g"
+      }
+    ],
+    "manchego_truffle_fries": [
+      {
+        "ingredient": "Agria potatoes",
+        "quantity": 1,
+        "unit": "kg"
+      },
+      {
+        "ingredient": "Oil",
+        "description": "for frying"
+      },
+      {
+        "ingredient": "manchego cheese",
+        "quantity": 100,
+        "unit": "g",
+        "description": "3-month aged, finely grated"
+      },
+      {
+        "ingredient": "chives",
+        "quantity": 20,
+        "unit": "g",
+        "description": "minced"
+      },
+      {
+        "ingredient": "black truffle oil",
+        "quantity": 5,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "extra-virgin olive oil",
+        "quantity": 5,
+        "unit": "ml"
+      },
+      {
+        "ingredient": "Salt",
+        "description": "to taste"
+      }
+    ],
+    "mojo_verde": [
+      {
+        "ingredient": "parsley",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "ingredient": "coriander",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "ingredient": "confit garlic",
+        "quantity": 20,
+        "unit": "g"
+      },
+      {
+        "ingredient": "toasted cumin seeds",
+        "quantity": 10,
+        "unit": "g"
+      },
+      {
+        "ingredient": "extra-virgin olive oil",
+        "quantity": 150,
+        "unit": "g"
+      },
+      {
+        "ingredient": "shallots brunoise",
+        "quantity": 5,
+        "unit": "g"
+      },
+      {
+        "ingredient": "Salt",
+        "description": "to taste"
+      },
+      {
+        "ingredient": "Pedro Ximenez vinegar",
+        "quantity": 25,
+        "unit": "yr old",
+        "description": "to taste"
+      }
+    ]
+  },
+  "method": [
+    {
+      "step": "Preheat oven to 180°C. Heat a heavy based frying pan till smoking. Oil and season the meat and not the pan. Color on all sides till golden brown. Place in a separate tray in the oven for 12 minutes. Remove from the oven and rest in a warm place for at least 5 minutes. Slice and serve."
+    },
+    {
+      "step": "Peel the potatoes. Cut into 1½ by 1½cm chips. Steam or boil until softened but not falling apart. Allow to steam dry. Throw chips in a colander to create fissures on the outsides. Cook in a deep-fat fryer at 130°C until edges take a little bit of color and appear to be drying out. Remove from fryer and allow to cool. Cook for a final time in fryer at 180°C till crisp and golden. Shake off excess fat and transfer to a bowl. Mix the chips with all other ingredients."
+    },
+    {
+      "step": "Mix the ingredients of mojo verde together and then season with salt and vinegar."
+    }
+  ]
+}
